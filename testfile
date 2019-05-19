@@ -1,0 +1,51 @@
+RecipeBook
+name Book2
+owner
+Human, name Kirill, age 5
+recipes
+Recipe, name salad2, ingredients onion tomato, description mix it, result good_salad, likes -100
+xCoordinate 1
+yCoordinate 2
+date Sun May 19 17:35:36 SAMT 2019 
+ 
+RecipeBook
+name Book4
+owner
+Human, name Kirill, age 5
+recipes
+Recipe, name salad2, ingredients onion tomato, description mix it, result good_salad, likes -94
+xCoordinate 2
+yCoordinate 4
+date Sun May 19 17:35:36 SAMT 2019 
+ 
+RecipeBook
+name Book3
+owner
+Human, name Kirill, age 5
+recipes
+Recipe, name salad2, ingredients onion tomato, description mix it, result good_salad, likes -72
+xCoordinate 7
+yCoordinate 5
+date Sun May 19 17:35:36 SAMT 2019 
+ 
+RecipeBook
+name Book1
+owner
+Human, name Kirill, age 18
+recipes
+Recipe, name salad4, ingredients tomato brokoly, description mix it, result bad salad, likes -2
+Recipe, name salad4, ingredients tomato brokoly, description mix it, result very bad salad, likes -12
+xCoordinate 11
+yCoordinate 54
+date Sun May 19 17:35:36 SAMT 2019 
+ 
+RecipeBook
+name simple_book
+owner
+Human, name Oleg, age 12
+recipes
+Recipe, name simple_Recipe, ingredients a b c, description Desc, result res, likes 8
+xCoordinate 6
+yCoordinate -2
+date Sun May 19 17:35:36 SAMT 2019 
+ 
